@@ -6,3 +6,4 @@
 - 💞️ I’m looking to collaborate with you to learn new things and teaching you maybe new skills
 - 📫 How to reach me groendyl@gmail.com
 ***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kuiper&layout=compact)](https://github.com/Dylan-Kuiper/github-readme-stats)
