@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kuiper&layout=compact)](https://github.com/Dylan-Kuiper/github-readme-stats)
 ***
 ### 💿 Now playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t6afyffba734tihsv4kxxfibua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t6afyffba734tihsv4kxxfibua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31t6afyffba734tihsv4kxxfibua&redirect=true)
