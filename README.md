@@ -1,3 +1,8 @@
+# Dylan Kuiper - Software Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9715F7&random=false&width=435&lines=Welcome+to+my+github+profile;Student+on+the+Bit+academy;Third+year+software+developer" alt="Typing SVG" />
+</p>
+
 ### 🌟 Highlighted Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwindcss,git,mysql,regex,bootstrap,c,cs,md,nodejs,npm,postman,&theme=dark&perline=4)](https://skillicons.dev)
 <details>
