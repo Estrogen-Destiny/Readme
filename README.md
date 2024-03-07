@@ -6,6 +6,19 @@
 
 I'm Dylan, a passionate third-year software developer student at [Horizon College](https://www.horizoncollege.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
 
+### 🎮 Hobbies and Interests
+
+Outside of my academic and professional endeavors, I dedicate time to a variety of personal interests that help me maintain a balanced lifestyle:
+
+- **Going to the Gym:** Staying active is crucial for me, not just for physical health, but also for mental well-being. Regular workouts help me stay focused and energized for coding sessions and challenges ahead.
+
+- **Personal Coding Projects:** I love to tinker with new technologies and ideas in my free time. Working on personal projects allows me to experiment with different programming languages and frameworks, honing my skills and fueling my creativity.
+
+- **Gaming:** Gaming is not just a hobby; it's a way to immerse myself in different worlds, connect with friends, and sometimes, inspire new coding projects. 
+
+These hobbies contribute to my growth as a software developer by offering me fresh perspectives, teaching me new problem-solving techniques, and keeping me engaged in continuous learning.
+
+
 ### 🌟 Highlighted Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwindcss,git,mysql,regex,bootstrap,c,cs,md,nodejs,npm,postman,&theme=dark&perline=4)](https://skillicons.dev)
