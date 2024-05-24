@@ -1,10 +1,10 @@
-# Dylan Kuiper - Software Developer
+# Software Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9715F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile;Student+at+Bit+Academy;Third-year+software+developer" alt="Typing SVG" />
 </p>
 
-I'm Dylan, a passionate third-year software developer student at [Horizon College](https://www.horizoncollege.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
+I'm a passionate third-year software developer student at [Horizon College](https://www.horizoncollege.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
 
 ### 🎮 Hobbies and Interests
 
