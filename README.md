@@ -35,19 +35,19 @@ As a student at Horizon College, I have been exposed to a wide range of technolo
   
   <div align="left">
   
-  ![Destiny's Stats](https://github-readme-stats.vercel.app/api?username=Dylan-Kuiper&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+  ![Destiny's Stats](https://github-readme-stats.vercel.app/api?username=Estrogen-Destiny&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
   </div>
 
   <div align="right">
     
-  ![Destiny's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dylan-Kuiper&theme=midnight-purple&hide_border=true)
+  ![Destiny's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estrogen-Destiny&theme=midnight-purple&hide_border=true)
       
   </div>
 
   <div align="left">
     
-  ![Destiny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Kuiper&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+  ![Destiny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estrogen-Destiny&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
   </div>
   
