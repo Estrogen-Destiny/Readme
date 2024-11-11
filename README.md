@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9715F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile;Student+at+Bit+Academy;Third-year+software+developer" alt="Typing SVG" />
 </p>
 
-I'm a passionate third-year software developer student at [Horizon College](https://www.horizoncollege.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
+I'm a passionate first-year software developer student at [Hva](https://www.hva.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
 
 ### 🎮 Hobbies and Interests
 
@@ -25,7 +25,7 @@ These hobbies contribute to my growth as a software developer by offering me fre
 
 ### 📚 Learning Journey
 
-As a student at Horizon College, I have been exposed to a wide range of technologies and projects that have significantly contributed to my development skills. My journey is characterized by continuous learning and applying new technologies to solve real-world problems.
+As a student at Hva, I have been exposed to a wide range of technologies and projects that have significantly contributed to my development skills. My journey is characterized by continuous learning and applying new technologies to solve real-world problems.
 
 ### ⚡ GitHub Analytics
 
